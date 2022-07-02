@@ -1,6 +1,6 @@
 ﻿
 
-string[] array1 = new string[5] {"666", "88", "peace", "GIT", "=)"};
+string[] array1 = new string[5] {"666", "8228", "peace", "GIT", "=)"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
